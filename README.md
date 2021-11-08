@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alsheira
 - 👀 I’m interested in PHP, HTML, Node.js, Also CSS
 - 🌱 I’m currently learning Javascript, Python, & C++
-- 💞️ I’m currently to collaborate on ComBoot
+- 💞️ I’m currently collaborating on ComBoot
 - 📫 How to reach me ...
 
 <!---
