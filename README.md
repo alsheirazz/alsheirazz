@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alsheirazz</h1>
 <h3 align="center">A passionate linux based projects developer</h3>
 
-### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
