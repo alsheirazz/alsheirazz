@@ -9,5 +9,3 @@
 <a href="https://medium.com/@wahitftry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@wahitftry" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/4C3PyXr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/4C3PyXr" height="30" width="40" /></a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alsheirazz&show_icons=true&locale=en" alt="alsheirazz" /></p>
