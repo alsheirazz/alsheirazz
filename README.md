@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alsheirazz</h1>
+<h1 align="center">Hi 👋, I'm Alsheiraz</h1>
 <h3 align="center">A passionate linux based projects developer</h3>
 
 <!-- BLOG-POST-LIST:START -->
